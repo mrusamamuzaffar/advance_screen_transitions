@@ -1,16 +1,19 @@
-# advance_screen_transitions
+# advance_screen_transitions - Flutter
 
 Advance Screen Transitions
 
-## Getting Started
+This code snippet shows an advance level screen transition. Which also include 3D transitions.
 
-This project is a starting point for a Flutter application.
+✔️ Sound NullSafety
 
-A few resources to get you started if this is your first Flutter project:
+## Architechture
+✔️ Clean Architechture <br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## GIF
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/205629058-fce5553f-a4d5-42a6-8382-15042c2a9452.gif">
+</p>
