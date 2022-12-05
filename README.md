@@ -2,12 +2,28 @@
 
 Advance Screen Transitions
 
-This code snippet shows an advance level screen transition. Which also include 3D transitions.
+This code snippet shows an advance level screen transition. Which having almost 15 advance level transition styles.
 
 ✔️ Sound NullSafety
 
 ## Architechture
 ✔️ Clean Architechture <br />
+
+## Transitions
+✔️ Cube 3D <br />
+✔️ Accordion <br />
+✔️ Background to Foreground <br />
+✔️ Foreground to Background <br />
+✔️ Depth <br />
+✔️ Flip Horizontal <br />
+✔️ Flip Vertical <br />
+✔️ Parallax <br />
+✔️ Rotate Down <br />
+✔️ Rotate Up <br />
+✔️ Stack <br />
+✔️ Table <br />
+✔️ Zoom Out Slide <br />
+✔️ Default <br />
 
 ## GIF
 
